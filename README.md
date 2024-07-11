@@ -60,3 +60,7 @@ Amarelo  | 10s                            | "FICA ESPERTO, QUERIDO" |
    - DIP: A classe TrafficLight depende da abstração ITrafficLightState, não das implementações concretas.
 
 Este código segue os princípios de KISS (mantenha simples e claro) e DRY (não repita a si mesmo), garantindo que o código é fácil de entender e manter.
+
+## Evidência:
+
+<img src=".github/assets/evidence.gif">
